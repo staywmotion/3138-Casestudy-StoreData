@@ -1,0 +1,182 @@
+[
+  {
+    "Brand": "Nike",
+    "Products": [
+      {
+        "Id": "1",
+        "BrandId": 1,
+        "ProductName": "Nike Air Zoom Pegasus 38",
+        "GraphicName": "nike_air_zoom_pegasus_38.png",
+        "CostPrice": 90.0,
+        "MSRP": 120.0,
+        "QtyOnHand": 50,
+        "QtyOnBackOrder": 10,
+        "Description": "The Nike Air Zoom Pegasus 38 continues to put a spring in your step, using the same responsive foam as its predecessor."
+      },
+      {
+        "Id": "2",
+        "BrandId": 1,
+        "ProductName": "Nike Pro Compression Shorts",
+        "GraphicName": "nike_pro_compression_shorts.png",
+        "CostPrice": 25.0,
+        "MSRP": 35.0,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 20,
+        "Description": "Designed for high-performance training, these compression shorts offer support and comfort with a flexible fit."
+      },
+      {
+        "Id": "3",
+        "BrandId": 1,
+        "ProductName": "Nike Dri-FIT T-Shirt",
+        "GraphicName": "nike_dri_fit_tshirt.png",
+        "CostPrice": 20.0,
+        "MSRP": 30.0,
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 30,
+        "Description": "This lightweight, breathable T-shirt helps keep you dry and comfortable during your toughest workouts."
+      },
+      {
+        "Id": "4",
+        "BrandId": 1,
+        "ProductName": "Nike Brasilia Training Duffel Bag",
+        "GraphicName": "nike_brasilia_training_duffel_bag.png",
+        "CostPrice": 40.0,
+        "MSRP": 50.0,
+        "QtyOnHand": 75,
+        "QtyOnBackOrder": 15,
+        "Description": "A spacious, durable bag perfect for carrying all your gear, with multiple pockets for easy organization."
+      },
+      {
+        "Id": "5",
+        "BrandId": 1,
+        "ProductName": "Nike Elite Basketball Socks",
+        "GraphicName": "nike_elite_basketball_socks.png",
+        "CostPrice": 15.0,
+        "MSRP": 20.0,
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 50,
+        "Description": "High-performance socks designed to provide cushioning and support during intense basketball games."
+      }
+    ]
+  },
+  {
+    "Brand": "Adidas",
+    "Products": [
+      {
+        "Id": "6",
+        "BrandId": 2,
+        "ProductName": "Adidas Ultraboost 21",
+        "GraphicName": "adidas_ultraboost_21.png",
+        "CostPrice": 150.0,
+        "MSRP": 180.0,
+        "QtyOnHand": 60,
+        "QtyOnBackOrder": 15,
+        "Description": "These running shoes deliver comfort and energy return with a Boost midsole and a Primeknit upper for a secure fit."
+      },
+      {
+        "Id": "7",
+        "BrandId": 2,
+        "ProductName": "Adidas Tiro 21 Training Pants",
+        "GraphicName": "adidas_tiro_21_training_pants.png",
+        "CostPrice": 40.0,
+        "MSRP": 50.0,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 25,
+        "Description": "These training pants are made with moisture-absorbing AEROREADY fabric, designed to keep you comfortable on the move."
+      },
+      {
+        "Id": "8",
+        "BrandId": 2,
+        "ProductName": "Adidas Essentials 3-Stripes Hoodie",
+        "GraphicName": "adidas_essentials_3stripes_hoodie.png",
+        "CostPrice": 45.0,
+        "MSRP": 60.0,
+        "QtyOnHand": 90,
+        "QtyOnBackOrder": 30,
+        "Description": "A cozy, stylish hoodie featuring the iconic 3-Stripes design, perfect for casual wear or light workouts."
+      },
+      {
+        "Id": "9",
+        "BrandId": 2,
+        "ProductName": "Adidas Predator Soccer Ball",
+        "GraphicName": "adidas_predator_soccer_ball.png",
+        "CostPrice": 30.0,
+        "MSRP": 40.0,
+        "QtyOnHand": 120,
+        "QtyOnBackOrder": 40,
+        "Description": "A durable, high-quality soccer ball designed for precision and control, suitable for all playing conditions."
+      },
+      {
+        "Id": "10",
+        "BrandId": 2,
+        "ProductName": "Adidas Adicolor Backpack",
+        "GraphicName": "adidas_adicolor_backpack.png",
+        "CostPrice": 35.0,
+        "MSRP": 45.0,
+        "QtyOnHand": 110,
+        "QtyOnBackOrder": 35,
+        "Description": "A versatile and stylish backpack with ample storage space and the classic Adidas trefoil logo."
+      }
+    ]
+  },
+  {
+    "Brand": "Jordan",
+    "Products": [
+      {
+        "Id": "11",
+        "BrandId": 3,
+        "ProductName": "Air Jordan 1 Retro High OG",
+        "GraphicName": "air_jordan_1_retro_high_og.png",
+        "CostPrice": 140.0,
+        "MSRP": 170.0,
+        "QtyOnHand": 40,
+        "QtyOnBackOrder": 10,
+        "Description": "The iconic Air Jordan 1 Retro High OG offers a timeless design and premium materials for a stylish and comfortable fit."
+      },
+      {
+        "Id": "12",
+        "BrandId": 3,
+        "ProductName": "Jordan Jumpman Fleece Pullover",
+        "GraphicName": "jordan_jumpman_fleece_pullover.png",
+        "CostPrice": 50.0,
+        "MSRP": 65.0,
+        "QtyOnHand": 70,
+        "QtyOnBackOrder": 15,
+        "Description": "This cozy fleece pullover features the Jumpman logo and provides warmth and comfort for everyday wear."
+      },
+      {
+        "Id": "13",
+        "BrandId": 3,
+        "ProductName": "Jordan Flight Basketball Shorts",
+        "GraphicName": "jordan_flight_basketball_shorts.png",
+        "CostPrice": 30.0,
+        "MSRP": 40.0,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 20,
+        "Description": "Lightweight and breathable, these shorts are perfect for basketball practice or casual wear."
+      },
+      {
+        "Id": "14",
+        "BrandId": 3,
+        "ProductName": "Jordan Dri-FIT Headband",
+        "GraphicName": "jordan_dri_fit_headband.png",
+        "CostPrice": 10.0,
+        "MSRP": 15.0,
+        "QtyOnHand": 200,
+        "QtyOnBackOrder": 50,
+        "Description": "This sweat-wicking headband helps keep sweat out of your eyes, allowing you to stay focused on the game."
+      },
+      {
+        "Id": "15",
+        "BrandId": 3,
+        "ProductName": "Jordan Legacy AJ11 Backpack",
+        "GraphicName": "jordan_legacy_aj11_backpack.png",
+        "CostPrice": 60.0,
+        "MSRP": 80.0,
+        "QtyOnHand": 55,
+        "QtyOnBackOrder": 20,
+        "Description": "Inspired by the iconic AJ11 sneaker, this backpack combines style and functionality with multiple compartments for storage."
+      }
+    ]
+  }
+]
